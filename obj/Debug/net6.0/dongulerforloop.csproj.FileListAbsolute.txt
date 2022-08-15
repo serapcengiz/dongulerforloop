@@ -1,0 +1,15 @@
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\bin\Debug\net6.0\dongulerforloop.exe
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\bin\Debug\net6.0\dongulerforloop.deps.json
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\bin\Debug\net6.0\dongulerforloop.runtimeconfig.json
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\bin\Debug\net6.0\dongulerforloop.dll
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\bin\Debug\net6.0\dongulerforloop.pdb
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\obj\Debug\net6.0\dongulerforloop.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\obj\Debug\net6.0\dongulerforloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\obj\Debug\net6.0\dongulerforloop.AssemblyInfoInputs.cache
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\obj\Debug\net6.0\dongulerforloop.AssemblyInfo.cs
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\obj\Debug\net6.0\dongulerforloop.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\obj\Debug\net6.0\dongulerforloop.dll
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\obj\Debug\net6.0\refint\dongulerforloop.dll
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\obj\Debug\net6.0\dongulerforloop.pdb
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\obj\Debug\net6.0\dongulerforloop.genruntimeconfig.cache
+C:\Users\serap\Desktop\Pratikler\dongulerforloop\obj\Debug\net6.0\ref\dongulerforloop.dll
